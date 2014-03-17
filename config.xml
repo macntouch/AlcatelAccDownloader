@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Alcatel ticket tool</comment>
+<entry key="stations_count">2</entry>
+<entry key="station1_addr">192.168.56.100</entry>
+<entry key="station2_addr">10.162.66.20</entry>
+</properties>
